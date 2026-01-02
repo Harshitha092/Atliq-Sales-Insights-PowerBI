@@ -52,7 +52,7 @@ For simplicity, Power BI is directly connected to the database, although in a pr
 - Date(dt, year, month, day, month_name, date_yy_mmm)
 
 Initial exploratory analysis was performed in MySQL  
-(File: `03_SQL_Analysis/exploratory_analysis.sql`)
+(File: `Exploratory_Analysis/sql_analysis.sql`)
 
 ---
 
